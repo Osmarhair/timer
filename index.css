@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(250, 204, 2);
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    height: 2em;
+    width: 5em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.iniciar{
+    background-color: greenyellow;
+    box-shadow: 15px;
+}
+
+.pausar{
+    background-color: coral;
+    box-shadow: 15px;
+}
+
+.parar{
+    background-color: darkblue;
+    color: aliceblue;
+    box-shadow: 15px;
+}
